@@ -32,7 +32,7 @@ p{
 }
 /*header area*/
 .nav{
-    border: 4px solid red;
+    /* border: 4px solid red; */
     width: 85%;
     /*margin-right: auto;
     margin-left: auto;*/
@@ -67,7 +67,7 @@ p{
 }
 /* banner area*/
 .banner{
-    border: 4px solid red;
+    /* border: 4px solid red; */
     height: 670px;
     background-image: url(../images/banner-bg.jpg);
     background-repeat: no-repeat;
@@ -108,7 +108,7 @@ p{
 
 /* ads area 1 */
 .ads{
-    border: 4px solid red;
+    /* border: 4px solid red; */
     width: 85%;
     margin: 4em auto;
     overflow: auto;
@@ -162,7 +162,7 @@ p{
 /* merchandise area */
 
 .merch{
-    border: 4px solid red;
+    /* border: 4px solid red; */
     width: 85%;
     margin: 4em auto;
 }
@@ -212,7 +212,7 @@ p{
     width: 100%;
 }
 .discount{
-    border: 2px dashed red;
+    /* border: 2px dashed red; */
     width: 85%;
     height: 350px;
     margin: auto;
@@ -223,7 +223,7 @@ p{
     position: relative;
 }
 .discount-text{
-    border: 2px dashed blue;    
+    /* border: 2px dashed blue;     */
     color: #fff;     
     position: absolute;
     top: 50%;
@@ -258,7 +258,7 @@ p{
 }
 /* merch sale area*/
 .merch{
-    border: 4px solid red;
+    /* border: 4px solid red; */
     width: 85%;
     margin: 4em auto;
 }
@@ -320,7 +320,7 @@ p{
 
 /* Reservation area*/
 .reservation{
-    border: 4px solid red;
+    /* border: 4px solid red; */
     width: 85%;
     margin: 4em auto;
     /* overflow: auto; */
@@ -333,7 +333,7 @@ form {
 }
 
 .form-group{    
-    border: 2px dashed blue;
+    /* border: 2px dashed blue; */
     /* height: 600px; */
     float: left;
     width: 49%;
@@ -349,7 +349,7 @@ form {
    ↑　同じ名前のクラスがあっても、後から番号区別できる*/
 
 form label{
-    border: 1px dashed purple;
+    /* border: 1px dashed purple; */
     font-weight: 700;
     font-family: 'Raleway', sans-serif;    
     
@@ -378,14 +378,14 @@ form label{
     background-repeat: no-repeat;
     background-position: center center;
     background-size: contain;
-    border: 2px dashed red;
+    /* border: 2px dashed red; */
     margin: auto;
     width: 150px;    
     height: 30px; /*content's height & width*/
 }
 
 form input, textarea{
-    border: 1px dashed black;
+    /* border: 1px dashed black; */
     width: 100%; 
     padding: 10px;  
    
@@ -415,7 +415,7 @@ input[type=submit] /* ←attribute selector*/{
 
 /* footer 1*/
 .footer{
-    border: 4px solid red;    
+    /* border: 4px solid red;     */
     background-image: url(../images/footer-img.jpg);
     background-repeat: no-repeat;
     background-position: center center;
@@ -425,14 +425,14 @@ input[type=submit] /* ←attribute selector*/{
     
 }
 .footer-content{
-    border: 2px dashed white;
+    /* border: 2px dashed white; */
     color: #fff;
     width: 85%;
     margin: auto;
     overflow: auto;
  }
 .footer-widgets{
-    border:  2px dashed yellow;
+    /* border:  2px dashed yellow; */
     float: left;
     width: 24.25%;
     margin-right: 1%;
@@ -462,12 +462,12 @@ input[type=submit] /* ←attribute selector*/{
 }
 /* footer 2 */
 .footer-social{
-    border: 4px solid red;
+    /* border: 4px solid red; */
     background-color: #19100f;
     overflow: auto;
 }
 .social-widgets{
-    border: 2px dashed white;
+    /* border: 2px dashed white; */
     float: left;
     width: 33.33%;
     text-align: center;
